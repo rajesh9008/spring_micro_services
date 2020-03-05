@@ -1,0 +1,5 @@
+include 'eurekanamingserver'
+include 'springcloudconfig'
+include 'trardingsystem'
+include 'zuulapigateway'
+
