@@ -2,4 +2,5 @@ include 'eurekanamingserver'
 include 'springcloudconfig'
 include 'trardingsystem'
 include 'zuulapigateway'
-
+include 'news'
+include 'authserver'

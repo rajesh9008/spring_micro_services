@@ -1,10 +1,10 @@
-package com.dreamworld.tradingsystem;
+package com.dreamworld.authserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrardingApplicationTests {
+class AuthserverApplicationTests {
 
     @Test
     void contextLoads() {
