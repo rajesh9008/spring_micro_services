@@ -1,10 +1,10 @@
-package com.dreamworld.authserver;
+package com.dreamworld.hystixdashboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthserverApplicationTests {
+class HystrixDashboardApplicationTests {
 
     @Test
     void contextLoads() {
